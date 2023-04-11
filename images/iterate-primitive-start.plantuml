@@ -1,0 +1,16 @@
+@startsalt
+{+
+{/ <b>Start
+Type
+Identifier
+Value
+Finish } |
+{
+  [<b>Primitive   ] | [ <&circle-x> ]
+  [Flow Control] | *
+  [Function    ] | *
+  [Object      ] | *
+  [Comment     ] | *
+}
+}
+@endsalt

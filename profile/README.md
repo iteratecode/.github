@@ -14,41 +14,17 @@ SALT Mock-ups
 
 ![Code Wireframe](https://raw.githubusercontent.com/iteratecode/.github/main/images/code-wireframe.png)
 
-```
-@startsalt
-{S
-01. /* Return the sum of the input */
-02. public int Sum (int[] input)
-03.   int total = 0;
-04.   for (int i = 0; i < input.Length(); i++)
-05.     total += input[i];
-06.   return total;
-}
-@endsalt
-```
-
 ### Iterate Flow
 
 #### Primitive
 
-![Iterate Wireframe](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-start-wireframe.png)
-```
-@startsalt
-{+
-{/ <b>Start
-Identifier
-Value
-Finish } |
-{
-  [<b>Primitive   ] | [ <&circle-x> ]
-  [Flow Control] | *
-  [Function    ] | *
-  [Object      ] | *
-  [Comment     ] | *
-}
-}
-@endsalt
-```
+![Primitive Start](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-start-wireframe.png)
+![Primitive Type](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-type-wireframe.png)
+![Primitive Identifier](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-identifier-wireframe.png)
+![Primitive Value](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-value-wireframe.png)
+![Primitive Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-finish-wireframe.png)
+
+
 
 #### Flow Control
 
@@ -67,3 +43,8 @@ Finish } |
 
 
 #### Comment
+
+
+
+
+

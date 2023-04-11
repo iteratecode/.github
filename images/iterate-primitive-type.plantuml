@@ -1,0 +1,15 @@
+@startsalt
+{+
+{/ Start
+<b>Type
+Identifier
+Value
+Finish } |
+{
+  [Boolean     ] | [ <&circle-x> ]
+  [Integer     ] | *
+  [Float       ] | *
+  [Character   ] | [ <&action-undo> ]
+}
+}
+@endsalt
