@@ -24,8 +24,6 @@ SALT Mock-ups
 ![Primitive Value](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-value.png)
 ![Primitive Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-finish.png)
 
-
-
 #### Flow Control
 
 

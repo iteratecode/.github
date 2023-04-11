@@ -1,0 +1,13 @@
+@startsalt
+{+
+{/ Start
+Type
+Identifier
+Value
+<b>Finish } |
+{
+  [Modify      ] | [ <&circle-x> ]
+  [<b>Finish      ] | [ <&action-undo> ]
+}
+}
+@endsalt
