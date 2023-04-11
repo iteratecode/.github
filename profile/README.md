@@ -18,11 +18,11 @@ SALT Mock-ups
 
 #### Primitive
 
-![Primitive Start](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-start-wireframe.png)
-![Primitive Type](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-type-wireframe.png)
-![Primitive Identifier](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-identifier-wireframe.png)
-![Primitive Value](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-value-wireframe.png)
-![Primitive Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-finish-wireframe.png)
+![Primitive Start](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-start.png)
+![Primitive Type](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-type.png)
+![Primitive Identifier](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-identifier.png)
+![Primitive Value](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-value.png)
+![Primitive Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-finish.png)
 
 
 
