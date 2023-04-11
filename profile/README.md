@@ -2,6 +2,8 @@
 
 Iterate is an educational programming mobile application; it's code mobilized!
 
+![Introduction](iterate-nested-loop.gif)
+
 ## Wireframe
 
 ![Use Case Diagram](https://raw.githubusercontent.com/iteratecode/.github/main/images/code-wireframe.png)
