@@ -6,9 +6,10 @@ Identifier
 Value
 Finish } |
 {
-  [Boolean     ] | [ <&circle-x> ]
-  [Integer     ] | *
-  [Float       ] | *
+  [Modify      ] | [ <&circle-x> ]
+  [Boolean     ] | *
+  [<b>Integer     ] | *
+  [Double      ] | *
   [Character   ] | [ <&action-undo> ]
 }
 }
