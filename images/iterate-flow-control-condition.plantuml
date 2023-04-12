@@ -5,7 +5,7 @@ Type
 <b>Condition
 Finish } |
 {
-  [Constant    ] | [ <&circle-x> ]
+  "#           " | [ <&circle-x> ]
   [<b>Reference   ] | [ <&action-undo> ]
 }
 }
