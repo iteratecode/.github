@@ -16,7 +16,7 @@ SALT Mock-ups
 
 ### Iterate Flow
 
-#### Primitive
+#### Primitive: "Integer"
 
 ![Primitive Start](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-start.png)
 ![Primitive Type](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-type.png)
@@ -24,8 +24,15 @@ SALT Mock-ups
 ![Primitive Value](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-value.png)
 ![Primitive Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-primitive-finish.png)
 
-#### Flow Control
+#### Flow Control: "If"
 
+![Flow Control Start](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-start.png)
+![Flow Control Type](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-type.png)
+![Flow Control Condition](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-condition.png)
+![Flow Control Condition 2](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-condition-2.png)
+![Flow Control Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish.png)
+![Flow Control Finish 2](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish-2.png)
+![Flow Control Finish 3](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish-3.png)
 
 
 

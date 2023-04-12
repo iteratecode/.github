@@ -1,0 +1,15 @@
+@startsalt
+{+
+{/ Start
+<b>Type
+Condition
+Finish } |
+{
+  [<b>If          ] | [ <&circle-x> ]
+  [Do          ] | *
+  [While       ] | *
+  [For         ] | *
+  [For Each    ] | [ <&action-undo> ]
+}
+}
+@endsalt

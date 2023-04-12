@@ -1,0 +1,12 @@
+@startsalt
+{+
+{/ Start
+Type
+<b>Condition
+Finish } |
+{
+  [Constant    ] | [ <&circle-x> ]
+  [<b>Reference   ] | [ <&action-undo> ]
+}
+}
+@endsalt
