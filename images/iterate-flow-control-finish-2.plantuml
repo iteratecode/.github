@@ -5,12 +5,12 @@ Type
 Condition
 <b>Finish } |
 {
-  [<b>==         ] | [ <&circle-x> ]
-  [!=         ] | *
-  [>          ] | *
-  [>=         ] | *
-  [<          ] | *
-  [<=         ] | [ <&action-undo> ]
+  [<b>Equal         ] | [ <&circle-x> ]
+  [Not Equal     ] | *
+  [Greater Than  ] | *
+  [Greater Or Eq ] | *
+  [Less Than     ] | *
+  [Less Or Eq    ] | [ <&action-undo> ]
 }
 }
 @endsalt

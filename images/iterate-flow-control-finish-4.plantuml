@@ -1,0 +1,13 @@
+@startsalt
+{+
+{/ Start
+Type
+Condition
+<b>Finish } |
+{
+  [Not           ] | [ <&circle-x> ]
+  [<b>And           ] | *
+  [Or            ] | [ <&action-undo> ]
+}
+}
+@endsalt
