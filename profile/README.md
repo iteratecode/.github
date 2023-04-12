@@ -33,10 +33,7 @@ SALT Mock-ups
 ![Flow Control Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish.png)
 ![Flow Control Finish 2](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish-2.png)
 ![Flow Control Finish 3](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish-3.png)
-![Flow Control Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish.png)
-![Flow Control Finish 4](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish-4.png)
-![Flow Control Condition](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-condition.png)
-![Flow Control Condition 2](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-condition-2.png)
+![Flow Control Finish](https://raw.githubusercontent.com/iteratecode/.github/main/images/iterate-flow-control-finish-4.png)
 
 
 #### Function

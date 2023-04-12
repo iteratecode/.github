@@ -5,9 +5,8 @@ Type
 Condition
 <b>Finish } |
 {
-  [Not           ] | [ <&circle-x> ]
-  [<b>And           ] | *
-  [Or            ] | [ <&action-undo> ]
+  [Modify      ] | [ <&circle-x> ]
+  [<b>Finish      ] | [ <&action-undo> ]
 }
 }
 @endsalt
